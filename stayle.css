@@ -1,0 +1,21 @@
+body {
+	background-image: linear-gradient(45deg, #CB356B, #BD3F32);
+}
+
+font {
+	font-size: 50px;
+	color: white;
+}
+.zg{
+	text-align: center;
+}
+a {
+	color: #24c5ff;
+}
+.html {
+	font-family: "Bauhaus 93";
+}
+.video {
+	display: block;
+
+}
